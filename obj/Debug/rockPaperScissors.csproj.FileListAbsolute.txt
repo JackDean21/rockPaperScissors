@@ -6,3 +6,11 @@ C:\Users\jackh\Documents\Visual Studio 2022\Projects\rockPaperScissors\obj\Debug
 C:\Users\jackh\Documents\Visual Studio 2022\Projects\rockPaperScissors\obj\Debug\rockPaperScissors.csproj.CoreCompileInputs.cache
 C:\Users\jackh\Documents\Visual Studio 2022\Projects\rockPaperScissors\obj\Debug\rockPaperScissors.exe
 C:\Users\jackh\Documents\Visual Studio 2022\Projects\rockPaperScissors\obj\Debug\rockPaperScissors.pdb
+C:\Users\jackh\Documents\GitHub\rockPaperScissors\bin\Debug\rockPaperScissors.exe.config
+C:\Users\jackh\Documents\GitHub\rockPaperScissors\bin\Debug\rockPaperScissors.exe
+C:\Users\jackh\Documents\GitHub\rockPaperScissors\bin\Debug\rockPaperScissors.pdb
+C:\Users\jackh\Documents\GitHub\rockPaperScissors\obj\Debug\rockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\jackh\Documents\GitHub\rockPaperScissors\obj\Debug\rockPaperScissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\jackh\Documents\GitHub\rockPaperScissors\obj\Debug\rockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Documents\GitHub\rockPaperScissors\obj\Debug\rockPaperScissors.exe
+C:\Users\jackh\Documents\GitHub\rockPaperScissors\obj\Debug\rockPaperScissors.pdb

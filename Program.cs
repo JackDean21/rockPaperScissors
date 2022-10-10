@@ -16,7 +16,7 @@ namespace rockPaperScissors
                 string reset = Console.ReadLine();
                 if (reset == "yes".ToLower())
                 {
-                    Main(args);
+                    Game(args);
                 }
                 else if (reset == "no".ToLower())
                 {
@@ -59,6 +59,7 @@ namespace rockPaperScissors
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("{0} version: {1} created by {2}", programName, programVersion, programAuthor);
             Console.ResetColor();
+
             while (true)
             {
                 Console.WriteLine("Welcome to the rock, paper scissors game! What is your name?");
@@ -74,6 +75,13 @@ namespace rockPaperScissors
                     Console.WriteLine("Welcome, {0}! Now lets play rock, paper, scissors!", name);
 
                 }
+                Game(args);
+            }
+        }
+        
+        static void Game(string[] args)
+        {
+        
                 while (true)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
@@ -142,7 +150,7 @@ namespace rockPaperScissors
 
 
 
-            }
+            
 
 
         }
